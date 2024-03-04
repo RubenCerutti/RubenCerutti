@@ -9,17 +9,28 @@ lo que me permite ofrecer soluciones sólidas y de vanguardia a los desafíos di
 y para ello cuento con estas tecnologias:
 
 MIS TECNOLOGIAS:
+
 Javascript, 
+
 Typescript, 
+
 Express, 
+
 NodeJS, 
+
 SQL, 
+
 React, 
+
 Redux, 
+
 CSS, 
+
 HTML.
 
+
 MIS OBJETIVOS: 
+
 Además de mi pasión por la tecnología, también valoro la comunidad de desarrolladores y la colaboración. 
 Contribuir al conocimiento compartido y ayudar a otros a aprender y crecer en este emocionante campo es una 
 parte importante de mi identidad como desarrollador.
