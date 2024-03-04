@@ -11,21 +11,13 @@ y para ello cuento con estas tecnologias:
 MIS TECNOLOGIAS:
 
 Javascript, 
-
 Typescript, 
-
 Express, 
-
 NodeJS, 
-
 SQL, 
-
 React, 
-
 Redux, 
-
 CSS, 
-
 HTML.
 
 
@@ -42,5 +34,7 @@ de la tecnología en su propio viaje hacia el éxito en este campo emocionante.
 
 ¿COMO CONTACTARME? 📫 
 Puedes contactarme: 
+
 -e-mail: r_cerutti@icloud.com 
+
 -Likendin: www.linkedin.com/in/rubencerutti
